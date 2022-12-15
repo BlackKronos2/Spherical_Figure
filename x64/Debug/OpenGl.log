@@ -1,0 +1,13 @@
+﻿  OpenGl.cpp
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInit в функции main.
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitDisplayMode в функции main.
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitWindowPosition в функции main.
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutInitWindowSize в функции main.
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutMainLoop в функции main.
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutCreateWindow в функции main.
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutPostRedisplay в функции "void __cdecl timer(int)" (?timer@@YAXH@Z).
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutSwapBuffers в функции "void __cdecl draw(void)" (?draw@@YAXXZ).
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutDisplayFunc в функции main.
+OpenGl.obj : error LNK2019: ссылка на неразрешенный внешний символ glutTimerFunc в функции "void __cdecl timer(int)" (?timer@@YAXH@Z).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64\glut32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\arefe\source\repos\OpenGl\x64\Debug\OpenGl.exe : fatal error LNK1120: неразрешенных внешних элементов: 10
